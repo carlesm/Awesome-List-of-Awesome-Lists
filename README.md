@@ -8,6 +8,7 @@ This is a personal repo (open for all), to recap on all repos on github.com that
 1. [Mixed](#mixed)
 1. [Python](#python)
 1. [Security](#security)
+1. [Web-Frontend development](#webfrontend)
 
 ## Metalists
 https://github.com/sindresorhus/awesome - AwesomeList
@@ -24,4 +25,5 @@ https://github.com/vinta/awesome-python - Python List
 ## Security
 https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/ - Awesome Red Teaming resources
 
-
+## Web-Frontend development
+https://github.com/dypsilon/frontend-dev-bookmarks - Web/frontend 
