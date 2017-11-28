@@ -8,6 +8,7 @@ This is a personal repo (open for all), to recap on all repos on github.com that
 1. [DevOps](#devops)
 1. [Mixed](#mixed)
 1. [Python](#python)
+1. [RaspberryPi](#raspi)
 1. [Security](#security)
 1. [Web-Frontend development](#webfrontend)
 
@@ -25,6 +26,8 @@ https://github.com/veggiemonk/awesome-docker - Docker Resources
 ## Python
 https://github.com/vinta/awesome-python - Python List
 
+## RaspberryPi
+https://github.com/thibmaek/awesome-raspberry-pi - Raspberry List
 
 ## Security
 https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/ - Awesome Red Teaming resources
