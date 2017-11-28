@@ -4,6 +4,7 @@ This is a personal repo (open for all), to recap on all repos on github.com that
 
 
 1. [Metalists](#metalists)
+1. [AI](#ai)
 1. [DevOps](#devops)
 1. [Mixed](#mixed)
 1. [Python](#python)
@@ -12,6 +13,9 @@ This is a personal repo (open for all), to recap on all repos on github.com that
 
 ## Metalists
 https://github.com/sindresorhus/awesome - AwesomeList
+
+## AI
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap - DeepLearning
 
 ## DevOps
 https://github.com/veggiemonk/awesome-docker - Docker Resources
